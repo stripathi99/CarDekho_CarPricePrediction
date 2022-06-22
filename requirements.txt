@@ -34,7 +34,7 @@ mistune @ file:///C:/ci/mistune_1594373272338/work
 nbconvert @ file:///C:/ci/nbconvert_1594372737468/work
 nbformat==5.0.7
 notebook==6.0.3
-numpy==1.19.0
+numpy==1.22.0
 packaging==20.4
 pandas==1.1.0
 pandocfilters==1.4.2
