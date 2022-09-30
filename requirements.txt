@@ -20,7 +20,7 @@ ipywidgets==7.5.1
 itsdangerous==1.1.0
 jedi @ file:///C:/ci/jedi_1592833832328/work
 Jinja2==2.11.2
-joblib==0.15.1
+joblib==1.2.0
 jsonify==0.5
 jsonschema @ file:///C:/ci/jsonschema_1594363671836/work
 jupyter==1.0.0
